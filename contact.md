@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Contact Long Haul
+layout: MinJae
+title: Contact Min jae
 ---
 
 <div id="contact">
