@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Profile"
+date:   2021-12-15
+description: Introduce Myself
+comments: true
+---
+
+## My Profile
+
+국민대학교 소프트웨어융합학부
+20212970 김민재

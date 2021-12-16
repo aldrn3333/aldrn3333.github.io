@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jekyll"
+date:   2021-12-10
+description: what is jekyll?
+comments: true
+---
+
+## what is jekyll?
+
+- 텍스트 변환 엔진으로, 마크업 언어로 글을 작성하면 미리 정의해 놓은 규칙에 따라서 정적인 웹사이트를 만들어준다. 이 과정에서 원하는 기능들을 구현할 수 있다.
+- 정적 웹사이트를 만들기 때문에, PHP 등의 서버 소프트웨어가 필요 없어, 매우 빠르고 가볍다.
+- 기본적인 형식
+
