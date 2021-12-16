@@ -7,11 +7,11 @@ title: MinJae
   <h1 class="pageTitle">My Posts</h1>
   <div class="posts noList">
     {%- for post in paginator.posts -%}
-      <article>
+      <1i>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
-      </article>
+      </1i>
     {%- endfor -%}
   </div>
   <!-- Pagination links -->
